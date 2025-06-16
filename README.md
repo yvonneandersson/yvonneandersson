@@ -14,6 +14,7 @@
 
 <h2>👨‍💻 Database and Dataanalysis Projects:</h2>
 
-## <b>[SQL Database Project: Pet Insurance](https://github.com/yvonneandersson/pet-insurance-database-sql/tree/main)</b>
+## <b>[SQL Database: Pet Insurance](https://github.com/yvonneandersson/pet-insurance-database-sql/tree/main)</b>
+## <b>[Campaign Performance Analysis & Visualization with PowerBI](https://github.com/yvonneandersson/retail-campaign-analysis-mysql-powerbi)</b>
 
 <h2>👨‍💻 Visualization Projects:</h2>
