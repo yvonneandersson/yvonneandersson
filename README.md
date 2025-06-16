@@ -6,9 +6,11 @@
 ## <b>[Windows Client-Server Configuration with Active Directory, GPO, and File Sharing](https://github.com/yvonneandersson/activedirectory-gpo-client-server-setup/tree/main)</b>
 
 
+
 <h2>👨‍💻 Network Projects:</h2>
 
 ## <b>[ACL & DNS Configuration on Cisco Router](https://github.com/yvonneandersson/network-config-dns-acl)</b>
+## <b>[Redundant Enterprise Network: Design and Configuration](https://github.com/yvonneandersson/enterprise-networking-project)</b>
 
 <h2>👨‍💻 Visualization Projects:</h2>
 
