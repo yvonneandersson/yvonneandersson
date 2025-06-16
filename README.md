@@ -14,3 +14,7 @@
 
 <h2>👨‍💻 Visualization Projects:</h2>
 
+<h2>👨‍💻 Python Projects:</h2>
+
+<h2>👨‍💻 OOP Projects:</h2>
+
