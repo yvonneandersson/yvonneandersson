@@ -1,5 +1,7 @@
 <h1>Hello, I'm Yvonne! <br/>
 
+<h2>👨‍💻 Hardware & OS Projects:</h2>
+
 <h2>👨‍💻 Serversystem Projects:</h2>
  
 ## <b>[PowerShell Automation: Configuring a DHCP Server](https://github.com/yvonneandersson/dhcp-powershell-automation)</b>
@@ -13,8 +15,3 @@
 ## <b>[Redundant Enterprise Network: Design and Configuration](https://github.com/yvonneandersson/enterprise-networking-project)</b>
 
 <h2>👨‍💻 Visualization Projects:</h2>
-
-<h2>👨‍💻 Python Projects:</h2>
-
-<h2>👨‍💻 OOP Projects:</h2>
-
