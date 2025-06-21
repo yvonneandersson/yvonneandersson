@@ -21,4 +21,4 @@
 
 ## <b>[Demographic Visualization in R – Treemap Analysis & ggplot2](https://github.com/yvonneandersson/r-quarto-population-treemap)</b>
 ## <b>[Train Timetables & Climate Trends – R Visualization with ggplot2](https://github.com/yvonneandersson/visualizing-trains-and-temperature-r)</b>
-
+## <b>[Animated Energy Charts & Interactive Maps – R Visualization](https://github.com/yvonneandersson/animated-energy-and-interactive-maps-r)</b>
