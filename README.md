@@ -18,6 +18,7 @@
 ## <b>[Campaign Performance Analysis & Visualization with PowerBI](https://github.com/yvonneandersson/retail-campaign-analysis-mysql-powerbi)</b>
 
 <h2>👨‍💻 Visualization Projects:</h2>
+<h3>R Projects:</h3>
 
 ## <b>[Demographic Visualization in R – Treemap Analysis & ggplot2](https://github.com/yvonneandersson/r-quarto-population-treemap)</b>
 ## <b>[Train Timetables & Climate Trends – R Visualization with ggplot2](https://github.com/yvonneandersson/visualizing-trains-and-temperature-r)</b>
