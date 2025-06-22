@@ -1,6 +1,8 @@
 <h1>Hello, I'm Yvonne! <br/>
 
-<h2>👨‍💻 Hardware & OS Projects:</h2>
+<h2>🖥️ Hardware & OS Projects:</h2>
+
+## <b>[Workstation Build for 3D Modeling](https://github.com/yvonneandersson/workstation-3dmodellering)</b>
 
 <h2>👨‍💻 Serversystem Projects:</h2>
  
