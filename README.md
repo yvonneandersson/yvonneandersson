@@ -24,3 +24,8 @@
 ## <b>[Train Timetables & Climate Trends – R Visualization with ggplot2](https://github.com/yvonneandersson/visualizing-trains-and-temperature-r)</b>
 ## <b>[Animated Energy Charts & Interactive Maps – R Visualization](https://github.com/yvonneandersson/animated-energy-and-interactive-maps-r)</b>
 ## <b>[Interactive Shiny App & Visualization Tool Review](https://github.com/yvonneandersson/interactive-r-shiny-visualization)</b>
+
+<h2>👾 Programming Projects:</h2>
+<h3>Python Projects:</h3>
+
+## <b>[KPI Data Analysis](https://github.com/yvonneandersson/kpi-dataanalys-python)</b>
