@@ -32,4 +32,4 @@
 <h2>👾 Programming Projects:</h2>
 <h3>Python Projects:</h3>
 
-## <b>[KPI Data Analysis](https://github.com/yvonneandersson/kpi-dataanalys-python)</b>
+## <b>[Data and Visualization Analysis](https://github.com/yvonneandersson/kpi-dataanalys-python)</b>
